@@ -204,6 +204,9 @@ h1 {
 	overflow: hidden;
 	width: 100%;
 }
+.video-cell h3 {
+	text-align: center;
+}
 .student-subtitle {
 	text-decoration: none;
 	color: #A58297;
